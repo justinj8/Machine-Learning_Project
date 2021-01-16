@@ -12,8 +12,8 @@ Using the Natural Language Processing features to feed into a machine learning m
 ## Research Questions to Answer
 
 - How do global markets fluctuate based on news sentiment analysis of market indicies?
-- Markets to predict daily percent change - NDAQ(USA), FTSE 100(UK), FCHI CAC 40(FR), GDAXI(GER), SSE Composite (China)
-- How are major global markets going to perform in the next 7 days with upcoming us presdential elecitons?
+- Markets to predict daily percent change - SP500(USA), FTSE 100(UK), FCHI CAC 40(FR), GDAXI(GER), Tokyo Exchange(Japan)
+- How are major global markets going to perform in the next 7 days with upcoming us presdential elections?
 
 ## Data souces to be used
 - Google News https://newsapi.org/s/google-news-api
