@@ -15,10 +15,10 @@ Using the Natural Language Processing features to feed into a machine learning m
 - Markets to predict daily percent change - SP500(USA), FTSE 100(UK), FCHI CAC 40(FR), GDAXI(GER), Tokyo Exchange(Japan)
 - How are major global markets going to perform in the next 7 days with upcoming us presdential elections?
 
-## Data souces to be used
-- Google News https://newsapi.org/s/google-news-api
-- Reuters https://www.reutersagency.com/en/platforms/api-feeds/
-- Quandl Api for Indicies https://www.quandl.com/data/NASDAQOMX-NASDAQ-OMX-Global-Index-Data/documentation
+## Data sources to be used
+- New York Times: https://developer.nytimes.com/apis
+- Google Finance: Global Indices Stock Prices
+
 
 ## Machine Learning Models & NLP Kits
  - IBM Watson NLP https://www.ibm.com/cloud/watson-natural-language-understanding
