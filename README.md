@@ -7,7 +7,7 @@
 
 
 ## Project Outline: 
-Using the Natural Language Processing features to feed into a machine learning model that will predict movement of stock prices & percent change in global markets. 
+Using the Natural Language Processing features (sentiment & emotions) to feed into a machine learning model that will predict movement of stock prices & percent change in global markets. 
 
 
 ## Research Questions to Answer
