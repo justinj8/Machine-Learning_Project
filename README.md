@@ -13,7 +13,7 @@ Using the Natural Language Processing features to feed into a machine learning m
 ## Research Questions to Answer
 
 - How do global markets fluctuate based on U.S news sentiment analysis of market indicies?
-- Markets to predict daily percent change - SP500(USA), FTSE 100(UK), FCHI CAC 40(FR), GDAXI(GER), TOPIX(Japan)
+- Markets to predict daily percent change - SP500 (USA), FTSE 100 (UK), FCHI CAC 40 (FR), GDAXI (GER), TOPIX (Japan)
 - How are major global markets going to perform in the next 5 days?
 
 
