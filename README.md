@@ -1,4 +1,4 @@
-# Project Proposal - Predicting Global Markets Based on Sentiment
+# U.S. News vs. Global Stock Markets - Predicting Global Markets Based on U.S. News Sentiment
 
 ## Team Members:
 1) Justin John  
