@@ -1,6 +1,6 @@
 # U.S. News vs. Global Stock Markets - Predicting Global Markets Based on U.S. News Sentiment
 
-## Outline: 
+## Outline
 Using the Natural Language Processing features (sentiment & emotions) to feed into a machine learning model that will predict movement of stock prices & percent change in global markets. 
 
 
@@ -18,38 +18,38 @@ Using the Natural Language Processing features (sentiment & emotions) to feed in
 
 ## Evaluation Metrics 
 
-### Balanced Random Forest: Accuracy by Index:
+### Balanced Random Forest: Accuracy by Index
 ![Random Forest Model](data/blanacedrandomforest.png)<sup>8<sup>
 
-### Top Five Emotions (by Index):
+### Top Five Emotions (by Index)
 ![Top Five Emotions](data/topemotions.png)<sup>8<sup>
 
-### Classification Model: 
+### Classification Model
 ![Classification Model](data/classificationmodel.png)<sup>8<sup>
 
-### Log-cosh: 
+### Log-cosh
 ![log cosh](data/logcash.png)<sup>8<sup>
  
-### Mean Squared Error:
+### Mean Squared Error
 ![Mean Squared Error](data/meansquarederror.png)<sup>8<sup>
 
 
 
 ## Results: Close Price (LSTM Model)
 
-### S&P 500 (US):
+### S&P 500 (US)
 ![SP500 close price](data/sp500closeprice.png)<sup>8<sup>
 
-### FTSE (UK):
+### FTSE (UK)
 ![FTSE close price](data/ftsecloseprice.png)<sup>8<sup>
  
  
  ## Results: Percent Change (LSTM Model)
 
-### S&P 500 (US):
+### S&P 500 (US)
 ![SP500 pct change](data/sp500pctchange.png)<sup>8<sup>
 
-### FTSE (UK):
+### FTSE (UK)
 ![FTSE pct change](data/ftsepctchange.png)<sup>8<sup>
 
 
