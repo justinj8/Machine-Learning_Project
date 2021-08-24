@@ -1,12 +1,6 @@
 # U.S. News vs. Global Stock Markets - Predicting Global Markets Based on U.S. News Sentiment
 
-## Team Members:
-1) Justin John  
-2) Stephan Bernard   
-2) Farah Awad   
-
-
-## Project Outline: 
+## Outline: 
 Using the Natural Language Processing features (sentiment & emotions) to feed into a machine learning model that will predict movement of stock prices & percent change in global markets. 
 
 
