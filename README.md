@@ -11,7 +11,7 @@ Using the Natural Language Processing features (sentiment & emotions) to feed in
 - How are major global markets going to perform in the next 5 days?
 
 
-## Data sources to be used
+## Data Sources
 - New York Times: https://developer.nytimes.com/apis
 - Google Finance: Global Indices Stock Prices
 
